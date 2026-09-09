@@ -1,4 +1,4 @@
-# 💫 Your Cybersecurity Specialist <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/dd2daaf0-95ee-408f-97ae-0f66d5a7c01a" />
+# 💫 Your Cybersecurity Specialist <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/dd2daaf0-95ee-408f-97ae-0f66d5a7c01a" />
 
 root @ 127.0.0.1
 
