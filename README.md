@@ -1,6 +1,7 @@
-# 💫 Your Cybersecurity Specialist <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/dd2daaf0-95ee-408f-97ae-0f66d5a7c01a" />
 
-root @ 127.0.0.1
+# 💫 Your Cybersecurity Specialist <img src="https://www.svgrepo.com/show/530444/shield-check.svg" width="24" />
+
+root@127.0.0.1:~#
 
 ![snake gif](https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/output/github-snake-dark.svg)
 
