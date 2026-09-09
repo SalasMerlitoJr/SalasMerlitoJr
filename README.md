@@ -1,4 +1,4 @@
-# 💫 Your Cybersecurity Specialist 🛡️
+# 💫 Your Certified Cybersecurity Specialist 🛡️
 
 root@127.0.0.1:~#
 
