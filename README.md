@@ -1,5 +1,4 @@
-
-# 💫 Your Cybersecurity Specialist <img src="https://www.svgrepo.com/show/530444/shield-check.svg" width="24" />
+# 💫 Your Cybersecurity Specialist 🛡️
 
 root@127.0.0.1:~#
 
